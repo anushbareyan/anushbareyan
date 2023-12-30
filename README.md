@@ -1,6 +1,6 @@
 <h1>Hi, I'm Anush <br/>
-  
-<h3>I'm currently pursuing my Bachelor's degree in Computer Science, passionate about exploring the realms of AI and machine learning.</h3>
+
+<h2>Here are some of my projects</h2>
 
 <h2>👨‍💻 Machine Learning & AI Projects:</h2>
 
