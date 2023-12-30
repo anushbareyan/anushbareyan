@@ -1,6 +1,6 @@
-<h1>Hi, I'm Anush <br/>
+<h1>Hi, I'm Anush</h1> <br/>
 
-<h2>Here are some of my projects</h2>
+<b>Here are some of my Projects: </b>
 
 <h2>👨‍💻 Machine Learning & AI Projects:</h2>
 
@@ -28,3 +28,6 @@
 
 - <b>Scripting Languages</b>
   - [Script for adjusting birghtness on Linux](https://github.com/anushbareyan/birghtnesschangeonlinux)
+    
+- <b>Python Programs</b>
+  - [Program for email automantion](https://github.com/anushbareyan/emailautomation)
