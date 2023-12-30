@@ -30,4 +30,4 @@
   - [Script for adjusting birghtness on Linux](https://github.com/anushbareyan/birghtnesschangeonlinux)
     
 - <b>Python Programs</b>
-  - [Program for email automantion](https://github.com/anushbareyan/emailautomation)
+  - [Program for email automation](https://github.com/anushbareyan/emailautomation)
