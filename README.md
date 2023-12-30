@@ -27,7 +27,7 @@
 <h2>🌐 General Projects:</h2>
 
 - <b>Scripting Languages</b>
-  - [Script for adjusting birghtness on Linux](https://github.com/anushbareyan/birghtnesschangeonlinux)
+  - [Script for adjusting birghtness on Linux](https://github.com/anushbareyan/birghtness-change-on-linux)
     
 - <b>Python Programs</b>
-  - [Program for email automation](https://github.com/anushbareyan/emailautomation)
+  - [Program for email automation](https://github.com/anushbareyan/email-automation)
