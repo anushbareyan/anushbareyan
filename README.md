@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anush! <br/>
+<h1>Hi, I'm Anush <br/>
   
 <h3>I'm currently pursuing my Bachelor's degree in Computer Science, passionate about exploring the realms of AI and machine learning.</h3>
 
@@ -27,4 +27,4 @@
 <h2>🌐 General Projects:</h2>
 
 - <b>Scripting Languages</b>
-  - [Script for adjusting birghtness on Linux /zsh/](https://github.com/anushbareyan/birghtnesschangeonlinux)
+  - [Script for adjusting birghtness on Linux](https://github.com/anushbareyan/birghtnesschangeonlinux)
