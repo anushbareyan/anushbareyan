@@ -16,10 +16,15 @@
 - <b>AI Game Development</b>
   - [Implementing a Tic Tac Toe game with AI strategies](https://github.com/anushbareyan/...)
 
-<h2>🌐 Web Development Projects:</h2>
+<h2>🔧 Web Development Projects:</h2>
 
 - <b>Personal Portfolio Website</b>
   - [Building a responsive portfolio website using HTML, CSS, and JavaScript](https://github.com/anushbareyan/...)
 
 - <b>E-commerce Website</b>
   - [Development of an e-commerce platform with user authentication and payment integration](https://github.com/anushbareyan/...)
+ 
+<h2>🌐 General Projects:</h2>
+
+- <b>Scripting Languages</b>
+  - [Script for adjusting birghtness on Linux /zsh/](https://github.com/anushbareyan/birghtnesschangeonlinux)
