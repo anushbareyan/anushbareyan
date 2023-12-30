@@ -2,6 +2,21 @@
 
 <b>Here are some of my Projects: </b>
 
+<h2>🌐 General Projects:</h2>
+
+- <b>Java Programs</b>
+  - [Chess Game with GUI using best OPP practices](https://github.com/anushbareyan/chess-java)
+  - [Console BlackJack Game using best OPP practices](https://github.com/anushbareyan/blackjack-java)
+ 
+- <b>Python Programs</b>
+  - [Program for email automation](https://github.com/anushbareyan/email-automation)
+
+- <b>Scripting Languages</b>
+  - [Script for adjusting birghtness on Linux](https://github.com/anushbareyan/birghtness-change-on-linux)
+    
+
+
+
 <h2>👨‍💻 Machine Learning & AI Projects:</h2>
 
 - <b>Sentiment Analysis on Social Media Data</b>
@@ -24,10 +39,3 @@
 - <b>E-commerce Website</b>
   - [Development of an e-commerce platform with user authentication and payment integration](https://github.com/anushbareyan/...)
  
-<h2>🌐 General Projects:</h2>
-
-- <b>Scripting Languages</b>
-  - [Script for adjusting birghtness on Linux](https://github.com/anushbareyan/birghtness-change-on-linux)
-    
-- <b>Python Programs</b>
-  - [Program for email automation](https://github.com/anushbareyan/email-automation)
