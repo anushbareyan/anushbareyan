@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anush</h1> <br/>
+<h1>Hi</h1> <br/>
 
 <b>Here are some of my Projects: </b>
 
