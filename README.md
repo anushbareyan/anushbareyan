@@ -15,7 +15,7 @@
   - [Script for adjusting birghtness on Linux](https://github.com/anushbareyan/birghtness-change-on-linux)
  
 - <b>SQL Database</b>
-  - [Music Collaboration Platform Database](https://github.com/anushbareyan/music-collaboration-db)
+  - [Music Collaboration Platform Database + use cases to practice SQL](https://github.com/anushbareyan/music-collaboration-db)
 
 <h2>🔧 Web Development Projects:</h2>
 
