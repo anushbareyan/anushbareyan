@@ -17,4 +17,9 @@
 - <b>SQL Database</b>
   - [Music Collaboration Platform Database](https://github.com/anushbareyan/music-collaboration-db)
 
- 
+<h2>🔧 Web Development Projects:</h2>
+
+- <b>Desinfectant Calculator Website</b>
+
+  - [Building a calculator website using HTML, CSS, and JavaScript](https://github.com/anushbareyan/desinfectant-calculator)
+
