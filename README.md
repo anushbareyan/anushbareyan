@@ -19,7 +19,7 @@
 
 <h2>🔧 Web Development Projects:</h2>
 
-- <b>Desinfectant Calculator Website</b>
+- <b>HTML/CSS/JS</b>
 
-  - [Building a calculator website using HTML, CSS, and JavaScript](https://github.com/anushbareyan/desinfectant-calculator)
+  - [Building a Desinfectant Calculator Website](https://github.com/anushbareyan/desinfectant-calculator)
 
