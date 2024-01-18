@@ -21,5 +21,5 @@
 
 - <b>HTML/CSS/JS</b>
 
-  - [Building a Desinfectant Calculator Website](https://github.com/anushbareyan/desinfectant-calculator)
+  - [Desinfectant Calculator Website](https://github.com/anushbareyan/desinfectant-calculator)
 
