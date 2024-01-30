@@ -1,5 +1,3 @@
-<h1>Hi there</h1> <br/>
-
 <b>Here are some of my Projects: </b>
 
 <h2>🌐 General Projects:</h2>
