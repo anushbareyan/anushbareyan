@@ -16,6 +16,9 @@
  
 - <b>SQL Database</b>
   - [Music Collaboration Platform Database + use cases to practice SQL](https://github.com/anushbareyan/music-collaboration-db)
+ 
+- <b>Electronics Project</b>
+  - [Building a Geiger Counter](https://github.com/anushbareyan/geiger-counter)
 
 <h2>🔧 Web Development Projects:</h2>
 
