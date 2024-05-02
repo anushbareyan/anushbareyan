@@ -8,6 +8,7 @@
  
 - <b>Python Programs</b>
   - [Program for email automation](https://github.com/anushbareyan/email-automation)
+  - [Pedagogical Machine Simulation](https://github.com/anushbareyan/pedagogical-machine-simulation)
 
 - <b>Scripting Languages</b>
   - [Script for adjusting birghtness on Linux](https://github.com/anushbareyan/birghtness-change-on-linux)
