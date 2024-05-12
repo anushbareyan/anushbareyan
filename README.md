@@ -1,7 +1,5 @@
 <b>Here are some of my Projects: </b>
 
-<h2>🌐 General Projects:</h2>
-
 - <b>Java Programs</b>
   - [Chess Game with GUI using OPP practices](https://github.com/anushbareyan/chess-java)
   - [Console BlackJack Game using OPP practices](https://github.com/anushbareyan/blackjack-java)
@@ -18,8 +16,6 @@
  
 - <b>Electronics Project</b>
   - [Building a Geiger Counter](https://github.com/anushbareyan/geiger-counter)
-
-<h2>🔧 Web Development Projects:</h2>
 
 - <b>HTML/CSS/JS</b>
 
