@@ -11,7 +11,7 @@
   - [Pedagogical Machine Simulation](https://github.com/anushbareyan/pedagogical-machine-simulation)
 
   <b> AI </b>
-  - [Credit Crad Approval Prediction](https://github.com/anushbareyan/credit-card-approval-prediction-model)
+  - [Credit Crad Approval Prediction](https://github.com/anushbareyan/credit-card-approval-prediction)
 
 - <b>Scripting Languages </b>
   - [Script for adjusting birghtness on Linux](https://github.com/anushbareyan/birghtness-change-on-linux)
