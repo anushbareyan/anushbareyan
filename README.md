@@ -15,7 +15,7 @@
 
 - <b>Scripting Languages </b>
   - [Script for adjusting birghtness on Linux](https://github.com/anushbareyan/birghtness-change-on-linux)
-  - [USB Payload with Raspberry Pi Pico](https://github.com/anushbareyan/pico-ducky)
+  - [USB Payload with Raspberry Pi Pico](https://github.com/anushbareyan/pico-ducky-payload)
  
 - <b>Verilog </b>
   - [Analog-to-digital converter](https://github.com/anushbareyan/adc)
