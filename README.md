@@ -20,6 +20,7 @@
 - <b>Verilog </b>
   - [Analog-to-digital converter](https://github.com/anushbareyan/adc)
   - [Digital-to-analog converter](https://github.com/anushbareyan/dac)
+  - [Digital-to-analog converter with Turing Machine](https://github.com/anushbareyan/dac-tm)
  
 - <b>SQL Database </b>
   - [Music Collaboration Platform Database + use cases to practice SQL](https://github.com/anushbareyan/music-collaboration-db)
