@@ -10,6 +10,7 @@
   - [Program for email automation](https://github.com/anushbareyan/email-automation)
   - [Pedagogical Machine Simulation](https://github.com/anushbareyan/pedagogical-machine-simulation)
   - [Program for calculating resistance change in copper interconnects under radiation using observational data](https://github.com/anushbareyan/space-radiation-effects)
+    
   <b> AI </b>
   - [Credit Card Approval Prediction](https://github.com/anushbareyan/credit-card-approval-prediction)
 
