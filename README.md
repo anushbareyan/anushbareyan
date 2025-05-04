@@ -9,9 +9,9 @@
 - <b>Python Programs </b>
   - [Program for email automation](https://github.com/anushbareyan/email-automation)
   - [Pedagogical Machine Simulation](https://github.com/anushbareyan/pedagogical-machine-simulation)
-
+  - [Program for calculating resistance change in copper interconnects under radiation using observational data](https://github.com/anushbareyan/space-radiation-effects)
   <b> AI </b>
-  - [Credit Crad Approval Prediction](https://github.com/anushbareyan/credit-card-approval-prediction)
+  - [Credit Card Approval Prediction](https://github.com/anushbareyan/credit-card-approval-prediction)
 
 - <b>Scripting Languages </b>
   - [Script for adjusting birghtness on Linux](https://github.com/anushbareyan/birghtness-change-on-linux)
@@ -28,7 +28,7 @@
 - <b>Electronics Project </b>
   - [Building a Geiger Counter](https://github.com/anushbareyan/geiger-counter)
 
-- <b>HTML/CSS/JS </b>
+- <b>HTML/CSS/JS/React </b>
 
   - [Desinfectant Calculator Website](https://github.com/anushbareyan/desinfectant-calculator)
-
+  - [Website for Proton radiation effects on Copper Research](https://github.com/anushbareyan/copper-radiation-site)
