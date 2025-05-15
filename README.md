@@ -14,6 +14,9 @@
   <b> AI </b>
   - [Credit Card Approval Prediction](https://github.com/anushbareyan/credit-card-approval-prediction)
 
+  <b>Compilers</b>
+  - [Basic Forth language compiler that generates x86-64 assembly](https://github.com/anushbareyan/forth-basic-compiler)
+    
 - <b>Scripting Languages </b>
   - [Script for adjusting birghtness on Linux](https://github.com/anushbareyan/birghtness-change-on-linux)
   - [Payload in Ducky Script for Raspberry Pi Pico](https://github.com/anushbareyan/pico-ducky-payload)
